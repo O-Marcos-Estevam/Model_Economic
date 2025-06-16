@@ -17,10 +17,13 @@ Install the required libraries (pandas, matplotlib) and run the script:
 python -m simulation.run
 ```
 
+codex/criar-classe-base-dos-agentes-e-simulação-de-mercado
 For an interactive HTML dashboard, install `streamlit` and run:
 
 ```bash
 streamlit run simulation/dashboard.py
 ```
 
+
+ main
 A plot showing the market price evolution will be displayed.
